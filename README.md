@@ -1,25 +1,24 @@
-<img src="./images/siemens.jpg" width=300 align=right>
+<img src="./images/siemens.jpg" width="300" align="right" style="margin-left: 20px;">
 
-# 🌐 Olá! Sou Renato Ribas
-Estudante de Engenharia de Software em processo de TCC. Atualmente moro em Criciúma, SC.
+# 🌐 Olá! Sou Renato Ribas  
+Estudante de Engenharia de Software em processo de TCC, atualmente residindo em Criciúma, SC.
 
-Sempre trabalhei na área industrial, com automação de processos, máquinas e equipamentos. Tenho experiência em:
-- Programação de CLPs.
-- Desenvolvimento de supervisórios.
-- Integração de sistemas.
-- Desenvolvimento de software.
+Sempre trabalhei na área industrial, com foco em automação de processos, máquinas e equipamentos. Tenho experiência em:  
+- **Programação de CLPs**.  
+- **Desenvolvimento de supervisórios**.  
+- **Integração de sistemas**.  
+- **Desenvolvimento de software**.  
 
-Meu foco é integrar **Tecnologia da Informação (TI)** com **Tecnologia de Automação (TA)**. Para isso, sempre estou me atualizando sobre:
-- Engenharia de Software.
-- Machine Learning.
-- Data Science.
-- Automação Industrial.
+Meu objetivo é integrar **Tecnologia da Informação (TI)** com **Tecnologia de Automação (TA)**. Para isso, estou continuamente me atualizando sobre:  
+- **Engenharia de Software**.  
+- **Machine Learning**.  
+- **Data Science**.  
+- **Automação Industrial**.  
 
 ---
 
-### **Atualmente**:
-Trabalhando em uma plataforma Open Source, com foco em dados para a **Indústria 4.0**.
-
+## **Atualmente**
+Estou desenvolvendo uma **plataforma Open Source**, com foco em análise de dados para a **Indústria 4.0**.  
 
 ---
 
@@ -32,16 +31,18 @@ Trabalhando em uma plataforma Open Source, com foco em dados para a **Indústria
 </table>
 </div>
 
+---
+
+## **📫 Onde me encontrar?**
+
+<a href="https://www.linkedin.com/in/renato-ribas-12112a145" style="text-decoration: none;">
+<img src="./images/linkedin.png" width="20" alt="LinkedIn Icon"></a>  
+[LinkedIn](https://www.linkedin.com/in/renato-ribas-12112a145)  
+
+<a href="mailto:renatoribassc@gmail.com" style="text-decoration: none;">
+<img src="./images/email.png" width="20" alt="Email Icon"></a>  
+[renatoribassc@gmail.com](mailto:renatoribassc@gmail.com)  
 
 ---
 
-## **Onde me encontrar?** 📫  
-
-<a href="https://www.linkedin.com/in/renato-ribas-12112a145"><img src="./images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/renato-ribas-12112a145)  
-
-<a href="mailto:renatoribassc@gmail.com"><img src="./images/email.png" width="16"></img></a> [Email](mailto:renatoribassc@gmail.com)  
-
----  
-
 ![](https://komarev.com/ghpvc/?username=RenatoRibas&color=blue&style=flat)
-
