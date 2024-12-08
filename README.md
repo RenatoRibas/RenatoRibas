@@ -1,4 +1,6 @@
-<img src="./images/siemens.jpg" width="300" align="right" style="margin-left: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="./images/siemens.jpg" width="300" align="right" style="margin-left: 20px;">
+</div>
 
 # 🌐 Olá! Sou Renato Ribas  
 Estudante de Engenharia de Software em processo de TCC, atualmente residindo em Criciúma, SC.
