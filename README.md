@@ -6,14 +6,10 @@
 Sempre trabalhei na area industrial, com automação de processos, máquinas e equipamentos.
 Tenho experiência em programação de clp's, supervisórios, integração de sistemas e desenvolvimento de software.
 Meu foco é integrar Tecnologia da Informação TI com Tecnologia de Automação TA, para isso sempre estou me atualizando sobre Engenharia de Software, Machine Learning, Data Science e Automação Industrial.
-
-📊 Minha experiência profissional:
-● gggg
-
 ---
 
 ### **Atualmente**:
-
+Trabalhando em uma plataforma Open Source, com foco em dados para a indústria 4.0.
 ---
 
 <center>
