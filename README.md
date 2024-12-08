@@ -1,5 +1,3 @@
-# **Olá! Seja bem vindo :)** 👋
-
 <img src="./images/siemens.jpg" width=300 align=right>
 
 # 🌐 Olá! Sou Renato Ribas
