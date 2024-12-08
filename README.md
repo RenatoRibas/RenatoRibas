@@ -1,6 +1,6 @@
 # **Olá! Seja bem vindo :)** 👋
 
-<img src="./images/image_computer.png" width=300 align=right>
+<img src="./images/siemens.jpg" width=300 align=right>
 
 🌐 Olá! Sou Renato Ribas, Estudante de Engenharia de Software em processo de TCC. Atualmente moro em Criciúma SC.
 Sempre trabalhei na area industrial, com automação de processos, máquinas e equipamentos.
