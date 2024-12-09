@@ -1,27 +1,28 @@
 
-# 🌐 Olá! Sou Renato Ribas  
-Estudante de Engenharia de Software em processo de TCC, atualmente residindo em Criciúma, SC.
+# 🌐 Hello! I'm Renato Ribas
+A Software Engineering student working on my final project (TCC), currently residing in Criciúma, SC, Brazil.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="./images/siemens.jpg" width="300" align="right" style="margin-left: 20px;">
 </div>
 
-Sempre trabalhei na área industrial, com foco em automação de processos, máquinas e equipamentos. Tenho experiência em:  
-- **Programação de CLPs**.  
-- **Desenvolvimento de supervisórios**.  
-- **Integração de sistemas**.  
-- **Desenvolvimento de software**.  
+I have always worked in the industrial sector, focusing on process automation, machines, and equipment. I have experience in:
+- **PLC programming**.  
+- **Supervisory system development**. 
+- **Systems integration**.  
+- **Software development**.
 
-Meu objetivo é integrar **Tecnologia da Informação (TI)** com **Tecnologia de Automação (TA)**. Para isso, estou continuamente me atualizando sobre:  
-- **Engenharia de Software**.  
+My goal is to integrate Information Technology (IT) with Automation Technology (AT). To achieve this, I continuously stay updated on:
+
+- **Software Engineering**.  
 - **Machine Learning**.  
 - **Data Science**.  
-- **Automação Industrial**.  
+- **Industrial Automation**.  
 
 ---
 
-## **Atualmente**
-Estou desenvolvendo uma **plataforma Open Source**, com foco em análise de dados para a **Indústria 4.0**.  
+## **Currently**
+I am developing an Open Source platform focused on data analysis for **Industry 4.0**.  
 
 ---
 
@@ -36,7 +37,7 @@ Estou desenvolvendo uma **plataforma Open Source**, com foco em análise de dado
 
 ---
 
-## **📫 Onde me encontrar?**
+## **📫 Where to find me?**
 
 <a href="https://www.linkedin.com/in/renato-ribas-12112a145" style="text-decoration: none;">
 <img src="./images/linkedin.png" width="20" alt="LinkedIn Icon"></a>  
