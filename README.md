@@ -16,7 +16,8 @@ My goal is to integrate Information Technology (IT) with Automation Technology (
 
 - **Software Engineering**.  
 - **Machine Learning**.  
-- **Data Science**.  
+- **Data Science**.
+- **Data Engineering**. 
 - **Industrial Automation**.  
 
 ---
