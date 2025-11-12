@@ -12,7 +12,7 @@ I have always worked in the industrial sector, focusing on process automation, m
 - **Systems integration**.  
 - **Software development**.
 
-My goal is to integrate Information Technology (IT) with Automation Technology (AT). To achieve this, I continuously stay updated on:
+My goal is to integrate Information Technology (IT) with Automation Technology (OT). To achieve this, I continuously stay updated on:
 
 - **Software Engineering**.  
 - **Machine Learning**.  
